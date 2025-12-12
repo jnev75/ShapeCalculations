@@ -1,0 +1,63 @@
+## Ignore Visual Studio user-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+
+## Ignore build output
+bin/
+obj/
+
+## Ignore .NET generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore temporary files
+*.log
+*.tmp
+*.temp
+
+## Ignore test result files
+TestResult.xml
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## Ignore ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Ignore Visual Studio cache and config
+*.rsuser
+*.psess
+*.vsp
+*.vspscc
+*.vssscc
+
+## Ignore backup and miscellaneous files
+*.bak
+*.orig
+*.cache
+*.db
+
+## Ignore macOS/Linux junk (safe even on Windows)
+.DS_Store
+Thumbs.db
+
+## Ignore files created by Visual Studio FileContentIndex
+**/FileContentIndex/*.vsidx
+
+## Ignore local tool manifests
+.dotnet/tools/
+
+## Ignore temp publish artifacts
+publish/

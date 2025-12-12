@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Pc-User\\Documents\\IT Portfolio\\CSharp\\ShapeCalculations\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A27C3-9FEC-4EB3-89E0-3E6475A82971}|Solution Items{ED3A27C3-9FEC-4EB3-89E0-3E6475A82971}|C:\\Users\\Pc-User\\Documents\\IT Portfolio\\CSharp\\ShapeCalculations\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{ED3A27C3-9FEC-4EB3-89E0-3E6475A82971}|Solution Items{ED3A27C3-9FEC-4EB3-89E0-3E6475A82971}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Pc-User\\Documents\\IT Portfolio\\CSharp\\ShapeCalculations\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Pc-User\\Documents\\IT Portfolio\\CSharp\\ShapeCalculations\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-11T23:29:27.422Z",
+              "EditorCaption": ""
             }
           ]
         }
